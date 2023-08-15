@@ -1,13 +1,9 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - print _putchar
  * is written by bko
  * Return: 0
  */
-
-int _putchar(char c) {
-    return putchar(c);
-}
 
 int main() {
     _putchar('_');
