@@ -2,9 +2,10 @@
 
 /**
   *times_table - prints the 9 times table
+  *
   *Return: returns nothing
   */
-int times_table(void)
+void times_table(void)
 {
 	int digit, mult, result;
 
