@@ -10,7 +10,6 @@ int mul(int a, int b)
 {
 return (a * b);
 }
-0x04-more_functions_nested_loops $ cat 3-print_numbers.c
 #include "main.h"
 /**
 *print_numbers - function that print all numbers from
