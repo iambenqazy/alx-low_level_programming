@@ -12,7 +12,8 @@ int main(void)
 	/*
 	 * Inserted line of code
 	 */
-	p[3] = 98;
+	/*p[3] = 98;*/
+	*(p + 5) = 98
 	/* ...so that this prints 98 followed by a new line */
 	printf("a[2] = %d\n", a[2]);
 	return (0);
